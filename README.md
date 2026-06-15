@@ -74,23 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssmoney1&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmoney1&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="top languages"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ssmoney1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=ssmoney1&theme=dracula&no-frame=true&row=1&column=6" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssmoney1/ssmoney1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssmoney1/ssmoney1/output/github-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/ssmoney1/ssmoney1/output/github-snake.svg">
-</picture>
 
 ###
